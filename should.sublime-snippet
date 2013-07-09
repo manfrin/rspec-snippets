@@ -1,0 +1,4 @@
+<snippet>
+  <content><![CDATA[$1.should eq('$2')]]></content>
+	<tabTrigger>should</tabTrigger>
+</snippet>
