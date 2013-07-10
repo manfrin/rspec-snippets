@@ -18,3 +18,8 @@ Type 'its' and tab/enter to initialize an it 'should' do block.
 Type 'cont' and tab/enter to initialize a context block.
 
 Type 'fg' and tab/enter to get FactoryGirl.create.
+
+License
+==============
+MIT. 
+Originally written by Mike Manfrin
