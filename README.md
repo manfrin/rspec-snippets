@@ -22,4 +22,3 @@ Type 'fg' and tab/enter to get FactoryGirl.create.
 License
 ==============
 MIT. 
-Originally written by Mike Manfrin
